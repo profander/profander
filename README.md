@@ -1,0 +1,4 @@
+- 👋ola sou o @profander
+- 👀 IMeu e-mail de contato é anderson.rodrigues.santos25@escola.pr.gov.br
+- 🌱 Eu estou interressado em aprender a programar novas linguaguens.
+- 💞️ Eu estou aprendendo a programar recentemente a linguagem de JavaScrip e Scratch.
